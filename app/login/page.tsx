@@ -23,8 +23,8 @@ const userCredentials = [
     email: "karthikeya@klu.ac.in",
     password: "user123",
     role: "customer",
-    name: "Karthikeya Reddy",
-    phone: "9876543210",
+    name: "Karthikeya Velivela",
+    phone: "7416191169",
   },
   {
     id: "2",
